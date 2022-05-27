@@ -1,0 +1,21 @@
+{
+  "id": "b40f1102-a67f-4de9-a8dd-c891adcea057",
+  "uid": "odio-officiis-alias",
+  "type": "publication",
+  "data": {
+    "title": [
+      {
+        "type": "heading1",
+        "text": "Deploy strategic architectures",
+        "spans": []
+      }
+    ],
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Ad incididunt fugiat cillum adipisicing pariatur.",
+        "spans": []
+      }
+    ]
+  }
+}
